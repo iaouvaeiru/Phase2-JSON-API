@@ -1,82 +1,69 @@
 {
-  "games": [
+  "games":[ 
     {
-      "id": 1,
-      "name": "name",
-      "image": "",
-      "trailer": "youtube",
-      "likes": 29,
-      "dislikes": 5,
-      "price": 5,
-      "onSale": false,
-      "year": 1964,
-      "reviews": [
-        {
-          "name": "Wiki Ramen",
-          "review": "so good"
-        },
-        {
-          "name": "Trogdor",
-          "review": "AMazing"
-        },
-        {
-          "name": "Hermione2",
-          "review": "not amazing"
-        }
-      ],
-      "genres": []
+    "id": 1,
+    "name": "Horror Co-op Game",
+    "image": "",
+    "trailer": "youtube",
+    "likes": 23,
+    "dislikes": 3,
+    "price" : 5,
+    "onSale": false,
+    "year": 1964,
+    "reviews": [],
+    "genres": ["horror", "co-op"]
     },
     {
-      "id": 2,
-      "name": "name",
-      "image": "",
-      "trailer": "youtube",
-      "likes": 23,
-      "dislikes": 3,
-      "price": 5,
-      "onSale": false,
-      "year": 1964,
-      "reviews": [],
-      "genres": []
+    "id": 2,
+    "name": "Puzzle Co-op Game",
+    "image": "",
+    "trailer": "youtube",
+    "likes": 23,
+    "dislikes": 3,
+    "price" : 5,
+    "onSale": false,
+    "year": 1964,
+    "reviews": [],
+    "genres": ["puzzle", "co-op"]
     },
     {
-      "id": 3,
-      "name": "name",
-      "image": "",
-      "trailer": "youtube",
-      "likes": 23,
-      "dislikes": 3,
-      "price": 5,
-      "onSale": false,
-      "year": 1964,
-      "reviews": [],
-      "genres": []
+    "id": 3,
+    "name": "Adventure Game",
+    "image": "",
+    "trailer": "youtube",
+    "likes": 23,
+    "dislikes": 3,
+    "price" : 5,
+    "onSale": false,
+    "year": 1964,
+    "reviews": [],
+    "genres": ["adventure", "open-world"]
     },
     {
-      "id": 4,
-      "name": "name",
-      "image": "",
-      "trailer": "youtube",
-      "likes": 23,
-      "dislikes": 3,
-      "price": 5,
-      "onSale": false,
-      "year": 1964,
-      "reviews": [],
-      "genres": []
+    "id": 4,
+    "name": "PvP Horror game",
+    "image": "",
+    "trailer": "youtube",
+    "likes": 23,
+    "dislikes": 3,
+    "price" : 5,
+    "onSale": false,
+    "year": 1964,
+    "reviews": [],
+    "genres": ["pvp", "horror"]
     },
     {
       "id": 5,
-      "name": "name",
+      "name": "MMO game",
       "image": "",
       "trailer": "youtube",
       "likes": 23,
       "dislikes": 3,
-      "price": 5,
+      "price" : 5,
       "onSale": false,
       "year": 1964,
       "reviews": [],
-      "genres": []
-    }
+      "genres": ["mmo"]
+      }
   ]
 }

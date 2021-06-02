@@ -2,7 +2,7 @@
   "games":[ 
     {
     "id": 1,
-    "name": "name",
+    "name": "Horror Co-op Game",
     "image": "",
     "trailer": "youtube",
     "likes": 23,
@@ -11,11 +11,11 @@
     "onSale": false,
     "year": 1964,
     "reviews": [],
-    "genres": []
+    "genres": ["horror", "co-op"]
     },
     {
     "id": 2,
-    "name": "name",
+    "name": "Puzzle Co-op Game",
     "image": "",
     "trailer": "youtube",
     "likes": 23,
@@ -24,11 +24,11 @@
     "onSale": false,
     "year": 1964,
     "reviews": [],
-    "genres": []
+    "genres": ["puzzle", "co-op"]
     },
     {
     "id": 3,
-    "name": "name",
+    "name": "Adventure Game",
     "image": "",
     "trailer": "youtube",
     "likes": 23,
@@ -37,11 +37,11 @@
     "onSale": false,
     "year": 1964,
     "reviews": [],
-    "genres": []
+    "genres": ["adventure", "open-world"]
     },
     {
     "id": 4,
-    "name": "name",
+    "name": "PvP Horror game",
     "image": "",
     "trailer": "youtube",
     "likes": 23,
@@ -50,11 +50,11 @@
     "onSale": false,
     "year": 1964,
     "reviews": [],
-    "genres": []
+    "genres": ["pvp", "horror"]
     },
     {
       "id": 5,
-      "name": "name",
+      "name": "MMO game",
       "image": "",
       "trailer": "youtube",
       "likes": 23,
@@ -63,7 +63,7 @@
       "onSale": false,
       "year": 1964,
       "reviews": [],
-      "genres": []
+      "genres": ["mmo"]
       }
   ]
 }
