@@ -2,68 +2,68 @@
   "games":[ 
     {
     "id": 1,
-    "name": "Horror Co-op Game",
-    "image": "",
-    "trailer": "youtube",
+    "name": "Days Gone",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1259420/header.jpg?t=1622218660",
+    "trailer": "EVGfJkGpyok",
     "likes": 23,
     "dislikes": 3,
-    "price" : 5,
+    "price" : 49.99,
     "onSale": false,
-    "year": 1964,
+    "year": 2021,
     "reviews": [],
-    "genres": ["horror", "co-op"]
+    "genres": ["horror", "zombies", "action", "open-world"]
     },
     {
     "id": 2,
-    "name": "Puzzle Co-op Game",
-    "image": "",
-    "trailer": "youtube",
+    "name": "It Takes Two",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/header_alt_assets_0.jpg?t=1622389744",
+    "trailer": "ohClxMmNLQQ",
     "likes": 23,
     "dislikes": 3,
-    "price" : 5,
+    "price" : 39.99,
     "onSale": false,
-    "year": 1964,
+    "year": 2021,
     "reviews": [],
-    "genres": ["puzzle", "co-op"]
+    "genres": ["puzzle", "co-op", "adventure", "action"]
     },
     {
     "id": 3,
-    "name": "Adventure Game",
-    "image": "",
-    "trailer": "youtube",
+    "name": "The Elder Scrolls Online",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/306130/header.jpg?t=1622558594",
+    "trailer": "s36tayDTjTs",
     "likes": 23,
     "dislikes": 3,
-    "price" : 5,
+    "price" : 19.99,
     "onSale": false,
     "year": 1964,
     "reviews": [],
-    "genres": ["adventure", "open-world"]
+    "genres": ["rpg", "open-world", "mmo", "multiplayer"]
     },
     {
     "id": 4,
-    "name": "PvP Horror game",
-    "image": "",
-    "trailer": "youtube",
+    "name": "Counter-Strike: Global Offensive",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg?t=1612812939",
+    "trailer": "edYCtaNueQY",
     "likes": 23,
     "dislikes": 3,
-    "price" : 5,
+    "price" : 0,
     "onSale": false,
-    "year": 1964,
+    "year": 2012,
     "reviews": [],
-    "genres": ["pvp", "horror"]
+    "genres": ["pvp", "fps", "shooter", "competitive", "action"]
     },
     {
       "id": 5,
-      "name": "MMO game",
-      "image": "",
-      "trailer": "youtube",
+      "name": "Terraria",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg?t=1590092560",
+      "trailer": "w7uOhFTrrq0",
       "likes": 23,
       "dislikes": 3,
-      "price" : 5,
+      "price" : 9.99,
       "onSale": false,
-      "year": 1964,
+      "year": 2011,
       "reviews": [],
-      "genres": ["mmo"]
+      "genres": ["sandbox", "2d", "survival", "co-op"]
       }
   ]
 }
