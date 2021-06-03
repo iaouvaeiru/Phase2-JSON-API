@@ -8,9 +8,14 @@
     "likes": 23,
     "dislikes": 3,
     "price" : 49.99,
-    "onSale": false,
     "year": 2021,
-    "reviews": [],
+    "reviews": [
+      {
+        "name": "Mario",
+        "review": "It's a me!"
+      }
+    ],
+    "about": "Ride and fight into a deadly, post pandemic America. Play as Deacon St. John, a drifter and bounty hunter who rides the broken road, fighting to survive while searching for a reason to live in this open-world action-adventure game.",
     "genres": ["horror", "zombies", "action", "open-world"]
     },
     {
@@ -21,9 +26,9 @@
     "likes": 23,
     "dislikes": 3,
     "price" : 39.99,
-    "onSale": false,
     "year": 2021,
     "reviews": [],
+    "about": "Embark on the craziest journey of your life in It Takes Two. Invite a friend to join for free with Friend’s Pass and work together across a huge variety of gleefully disruptive gameplay challenges.",
     "genres": ["puzzle", "co-op", "adventure", "action"]
     },
     {
@@ -34,9 +39,9 @@
     "likes": 23,
     "dislikes": 3,
     "price" : 19.99,
-    "onSale": false,
     "year": 1964,
     "reviews": [],
+    "about": "Join over 18 million players in the award-winning online multiplayer RPG and experience limitless adventure in a persistent Elder Scrolls world. Battle, craft, steal, or explore, and combine different types of equipment and abilities to create your own style of play. No game subscription required.",
     "genres": ["rpg", "open-world", "mmo", "multiplayer"]
     },
     {
@@ -47,9 +52,9 @@
     "likes": 23,
     "dislikes": 3,
     "price" : 0,
-    "onSale": false,
     "year": 2012,
     "reviews": [],
+    "about": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).",
     "genres": ["pvp", "fps", "shooter", "competitive", "action"]
     },
     {
@@ -60,10 +65,23 @@
       "likes": 23,
       "dislikes": 3,
       "price" : 9.99,
-      "onSale": false,
       "year": 2011,
       "reviews": [],
+      "about": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!",
       "genres": ["sandbox", "2d", "survival", "co-op"]
+      },
+      {
+        "id": 6,
+        "name": "Senren * Banka",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1144400/header.jpg?t=1609491130",
+        "trailer": "QJrX2zUFr1U",
+        "likes": 23,
+        "dislikes": 3,
+        "price" : 34.99,
+        "year": 2020,
+        "reviews": [],
+        "about": "Senren＊Banka is a Japanese-style visual novel produced by Yuzusoft, a Japanese developer of romance VNs. This game commemorated Yuzusoft's 10th anniversary. It won numerous awards on the year of its release in Japan for its art, music, and characters.",
+        "genres": ["casual", "2d", "anime", "adventure", "visual-novel"]
       }
   ]
 }
