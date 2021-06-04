@@ -13,6 +13,10 @@
       {
         "name": "Mario",
         "review": "It's a me!"
+      },
+      {
+        "name": "Timmy",
+        "review": "I think it would be better if it was a 2D platformer about a bug, maybe something like Hollow Knight"
       }
     ],
     "about": "Ride and fight into a deadly, post pandemic America. Play as Deacon St. John, a drifter and bounty hunter who rides the broken road, fighting to survive while searching for a reason to live in this open-world action-adventure game.",
@@ -27,7 +31,16 @@
     "dislikes": 3,
     "price" : 39.99,
     "year": 2021,
-    "reviews": [],
+    "reviews": [
+      {
+        "name": "Woody & Buzz",
+        "review": "What's so special about this game? 👎"
+      },
+      {
+        "name": "Timmy",
+        "review": "Cool game but not as good as Hollow Knight"
+      }
+    ],
     "about": "Embark on the craziest journey of your life in It Takes Two. Invite a friend to join for free with Friend’s Pass and work together across a huge variety of gleefully disruptive gameplay challenges.",
     "genres": ["puzzle", "co-op", "adventure", "action"]
     },
@@ -40,7 +53,12 @@
     "dislikes": 3,
     "price" : 19.99,
     "year": 1964,
-    "reviews": [],
+    "reviews": [
+      {
+        "name": "Timmy",
+        "review": "Almost as good as Hollow Knight"
+      }
+    ],
     "about": "Join over 18 million players in the award-winning online multiplayer RPG and experience limitless adventure in a persistent Elder Scrolls world. Battle, craft, steal, or explore, and combine different types of equipment and abilities to create your own style of play. No game subscription required.",
     "genres": ["rpg", "open-world", "mmo", "multiplayer"]
     },
@@ -53,7 +71,12 @@
     "dislikes": 3,
     "price" : 0,
     "year": 2012,
-    "reviews": [],
+    "reviews": [
+      {
+        "name": "Timmy",
+        "review": "I was called various slurs in my first game with other people"
+      }
+    ],
     "about": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).",
     "genres": ["pvp", "fps", "shooter", "competitive", "action"]
     },
@@ -66,7 +89,12 @@
     "dislikes": 3,
     "price" : 9.99,
     "year": 2011,
-    "reviews": [],
+    "reviews": [
+      {
+        "name": "Timmy",
+        "review": "I like that it's 2D, but there should have been a linear story like another 2D game I like"
+      }
+    ],
     "about": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!",
     "genres": ["sandbox", "2d", "survival", "co-op"]
     },
@@ -79,7 +107,12 @@
       "dislikes": 3,
       "price" : 34.99,
       "year": 2020,
-      "reviews": [],
+      "reviews": [
+        {
+          "name": "Timmy",
+          "review": "Do you think God stays in heaven because he too lives in fear of what he's created? \n-Steve Buscemi, Spy Kids 2 (2002)"
+        }
+      ],
       "about": "Senren＊Banka is a Japanese-style visual novel produced by Yuzusoft, a Japanese developer of romance VNs. This game commemorated Yuzusoft's 10th anniversary. It won numerous awards on the year of its release in Japan for its art, music, and characters.",
       "genres": ["casual", "2d", "anime", "adventure", "visual-novel"]
     },
@@ -92,9 +125,32 @@
       "dislikes": 3,
       "price" : 9.99,
       "year": 2011,
-      "reviews": [],
+      "reviews": [
+        {
+          "name": "Timmy",
+          "review": "REALLY good game, just wish it featured a knight of some kind, maybe a hollow one."
+        }
+      ],
       "about": "The 'Perpetual Testing Initiative' has been expanded to allow you to design co-op puzzles for you and your friends!",
-      "genres": ["puzzle", "2d", "platformer", "adventure", "co-op"]
+      "genres": ["puzzle", "platformer", "adventure", "co-op"]
+    },
+    {
+      "id": 8,
+      "name": "Hollow Knight",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/header.jpg?t=1601950406",
+      "trailer": "UAO2urG23S4",
+      "likes": 23,
+      "dislikes": 3,
+      "price" : 14.99,
+      "year": 2017,
+      "reviews": [
+        {
+          "name": "Timmy",
+          "review": "It's ok"
+        }
+      ],
+      "about": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style.",
+      "genres": ["puzzle", "2d", "platformer", "metroidvania", "adventure"]
     }
   ]
 }
